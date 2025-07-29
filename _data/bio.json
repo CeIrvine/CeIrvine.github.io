@@ -9,10 +9,8 @@
     "summary": "I am studying generals at Weber State University with the intention to transfer and pursue a B.S. in bioinformatics at the University of Utah.",
     "location": { "address": "", "postalCode": "84317", "city": "Huntsville", "countryCode": "USA", "region": "Utah" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/CeIrvine" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "CeIrvine", "url": "http://github.com/CeIrvine" },
+      { "network": "linkedin", "username": "CeIrvine", "url": "http://linkedin.com/in/changeme" }
     ]
   },
   "interests": [
@@ -80,7 +78,6 @@
         "Implementation of mobile and desktop application",
         "Creation of biometric recognition software for identification of patients",
         "Initialization of custom web API for secure database calls"
-        "
       ]
     }
   ],
