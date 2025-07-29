@@ -16,11 +16,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
+    { "name": "Neural Networks" },
+    { "name": "Large Launguage Models" },
     { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Weight Lifting" }
   ],
   "skills": [
     {
