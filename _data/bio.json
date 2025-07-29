@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://github.com/CeIrvine.png",
     "email": "CeIrvine900B@gmail.com",
-    "phone": "801-989=8296",
+    "phone": "801-989-8296",
     "website": "https://CeIrvine.github.io",
     "summary": "I am studying generals at Weber State University with the intention to transfer and pursue a B.S. in bioinformatics at the University of Utah.",
     "location": { "address": "", "postalCode": "84317", "city": "Huntsville", "countryCode": "USA", "region": "Utah" },
@@ -26,7 +26,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub", "Mobile OS" ]
+      "keywords": [ "MacOS", "WindowsOS", "MobileOS", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -42,14 +42,16 @@
   ],
   "work": [
     {
-      "company": "Dans Digging",
-      "position": "Ranch Hand",
+      "company": "Window Fresh",
+      "position": "Partner",
       "website": "",
-      "startDate": "2018-08-01",
-      "endDate": "2022-01-24",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-03-01",
+      "endDate": "Present",
+      "summary": "Partner and operator of Window Fresh",
       "highlights": [
-        "Maintain and oversee animal and equipment wellbeing",
+        "Bid and close future clients",
+        "Manage employes",
+        "Operate and clean clients windows"
       ]
     }    
   ],
