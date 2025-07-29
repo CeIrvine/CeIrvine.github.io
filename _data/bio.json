@@ -24,11 +24,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C#", "SQL", "Python" ]
+      "keywords": [ "C#", "SQL", "Python", "Java" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "WindowsOS", "Git/GitHub", "Mobile OS" ]
     }
   ],
   "education": [
@@ -44,29 +44,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Dans Digging",
+      "position": "Ranch Hand",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2018-08-01",
+      "endDate": "2022-01-24",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain and oversee animal and equipment wellbeing",
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
+    }    
   ],
   "volunteer": [
     {
@@ -89,22 +76,12 @@
       "endDate": "Present",
       "summary": "Creation and management of medical records software for use during GMAD's medical missions.",
       "highlights": [
-        "Design, creation, and management of cloud database.",
+        "Design and management of cloud hosted TSQL database.",
+        "Implementation of mobile and desktop application",
+        "Creation of biometric recognition software for identification of patients",
+        "Initialization of custom web API for secure database calls"
+        "
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
