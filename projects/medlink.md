@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/IMG_9090.jpg
 title: "MedLink"
 date: 2025-07-10
 published: true
