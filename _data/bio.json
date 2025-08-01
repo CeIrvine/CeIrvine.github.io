@@ -31,15 +31,6 @@
   ],
   "education": [
     {
-      "institution": "Weber State University, Ogden, UT",
-      "area": "Generals",
-      "studyType": "Generals",
-      "startDate": "2025-08-22",
-      "endDate": "Present",
-      "courses": [
-      ]
-    }
-    {
       "institution": "Ogden Weber Technical College, Ogden, UT",
       "area": "Certificate",
       "studyType": "Software Development",
@@ -47,7 +38,16 @@
       "endDate": "2025-08-01",
       "courses": [
       ]
-    }
+    },
+    {
+      "institution": "Weber State University, Ogden, UT",
+      "area": "Generals",
+      "studyType": "Generals",
+      "startDate": "2025-08-22",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }  
   ],
   "work": [
     {
